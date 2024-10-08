@@ -17,5 +17,5 @@ jobs:
         with:
           args: >
               -Dsonar.organization=githubactions200
-              -Dsonar.projectKey=eShopOnWeb
+              -Dsonar.projectKey=githubactions200_eshoponweb
               -Dsonar.python.coverage.reportPaths=coverage.xml
